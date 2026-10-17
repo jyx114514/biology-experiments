@@ -17,3 +17,5 @@ This repository is publicly available for viewing and reference purposes only.
 Unless explicitly authorized in writing by the copyright holder, reproduction, redistribution, republication, modification, or commercial use of the contents is prohibited.
 
 No license is granted for reuse or distribution.
+
+Biology experiments need to be adjusted according to actual conditions, the HTML in this repository is just for experiment reference.
